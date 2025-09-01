@@ -2,6 +2,8 @@
 
 # ESP32 Sistem Pintu Gerbang Otomatis
 
+![FlowCart](./Diagram-Flowcart/Flowcart.png)
+
 Sistem pintu gerbang otomatis menggunakan ESP32 dengan fitur lengkap termasuk OLED display, sensor ultrasonic, dual RFID, RTC module, WiFi, Blynk, dan web server.
 
 ## 🔧 Hardware Requirements
